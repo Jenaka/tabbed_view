@@ -8,6 +8,7 @@ import 'package:tabbed_view/src/theme/default_themes/mobile_theme.dart';
 import 'package:tabbed_view/src/theme/menu_theme_data.dart';
 import 'package:tabbed_view/src/theme/tab_theme_data.dart';
 import 'package:tabbed_view/src/theme/tabs_area_theme_data.dart';
+import 'package:clinical_ui/tabextentions/custom_tab_theme.dart';
 
 /// The [TabbedView] theme.
 /// Defines the configuration of the overall visual [Theme] for a widget subtree within the app.
