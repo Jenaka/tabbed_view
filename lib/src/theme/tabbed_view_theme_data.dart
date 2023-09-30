@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tabbed_view/src/icon_provider.dart';
 import 'package:tabbed_view/src/theme/content_area_theme_data.dart';
-import 'package:tabbed_view/src/theme/default_themes/classic_theme.dart';
 import 'package:tabbed_view/src/theme/default_themes/dark_theme.dart';
 import 'package:tabbed_view/src/theme/default_themes/minimalist_theme.dart';
 import 'package:tabbed_view/src/theme/default_themes/mobile_theme.dart';
